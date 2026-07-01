@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0030/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續燈存稿
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X84/X84n1585.xml
+    old_id: X84n1585
+hash: sha256:e579ceb8b07c973a18bbcb0c4ce186414ee68c5cb3c3e89c086839feaded15e6

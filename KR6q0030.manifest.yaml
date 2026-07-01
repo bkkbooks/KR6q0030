@@ -1,0 +1,7904 @@
+canonical_identifier: bkk:krp/KR6q0030/v1
+canonical_location: https://kanripo.org/bkk/KR6q0030/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 續燈存稿
+  identifiers:
+    alt_id:
+    - X84n1585
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X84/X84n1585.xml
+    old_id: X84n1585
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0030_000.yaml, hash: 'sha256:e579ceb8b07c973a18bbcb0c4ce186414ee68c5cb3c3e89c086839feaded15e6'}
+  - {seq: 1, filename: KR6q0030_001.yaml, hash: 'sha256:c4cd98512f93f5c2bff083eb97c6c734f950001e42f8ea33d8fd109a27ba55d8'}
+  - {seq: 2, filename: KR6q0030_002.yaml, hash: 'sha256:ec250d0107ecc685b498ad76e473938c80bf1b5fefebbdfee4abca2c3dc24852'}
+  - {seq: 3, filename: KR6q0030_003.yaml, hash: 'sha256:f92c7945831f0f130f2dac6f2edcc35751b33e16b3234551cacd6938c1ab9f6d'}
+  - {seq: 4, filename: KR6q0030_004.yaml, hash: 'sha256:ec2baf8e69f96dcd421fc13c6b55f46e49c367a2b85bcd8fd4eafceee9877075'}
+  - {seq: 5, filename: KR6q0030_005.yaml, hash: 'sha256:7411bbe879b7fade7c9670f29cfbe3514361778baa9c2455ebfe925d8cfee33e'}
+  - {seq: 6, filename: KR6q0030_006.yaml, hash: 'sha256:bc4e9ecf740297733c1c313f1720ce4f7387fb7396327189ffe9a10c9b885eda'}
+  - {seq: 7, filename: KR6q0030_007.yaml, hash: 'sha256:d435b7e94e129d12ef483c5fc9388fcde8081e1b09cdf1a901fc9c3d99db8e17'}
+  - {seq: 8, filename: KR6q0030_008.yaml, hash: 'sha256:71b08ffe40afccaebc1203036ab24fca38f49a7cd7ddf7eab922cb3ac5c3dc1e'}
+  - {seq: 9, filename: KR6q0030_009.yaml, hash: 'sha256:200e8236c253a6ad439f1ee84ac717f7beda76f24fe78db2986a9122a5b85f66'}
+  - {seq: 10, filename: KR6q0030_010.yaml, hash: 'sha256:741acb9e434eab80c96f6e9d8d18c04effc594c0936066e7dcca2d3aba6e8052'}
+  - {seq: 11, filename: KR6q0030_011.yaml, hash: 'sha256:0bc9919a04172709199dd8319f9975eb14f19b4e56ee09ff9bcbdf4a663e501c'}
+  - {seq: 12, filename: KR6q0030_012.yaml, hash: 'sha256:992040bf035b658e203edbcb6c1d1bc73b2c9a6c4bce8e082874d8b6aa04053b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0030_001.markers.yaml, hash: 'sha256:9851b62d168fc1e0b0a56c1bfc0c05a3f5ae23ba72cbf5811cbad11e89cadaed'}
+  - {seq: 2, role: markers, filename: assets/KR6q0030_002.markers.yaml, hash: 'sha256:66f0cf9f88c297891f411bdf53471dbe645238ab37247a66ab402a3a165b3d65'}
+  - {seq: 3, role: markers, filename: assets/KR6q0030_003.markers.yaml, hash: 'sha256:63729572246c51f91c9de3d714456e3dae07206a4e5e75465294e5dd71fa9890'}
+  - {seq: 4, role: markers, filename: assets/KR6q0030_004.markers.yaml, hash: 'sha256:e56de854dc9c735f290ba82437d587b4cc8e175d94497623d812181e954d6cd6'}
+  - {seq: 5, role: markers, filename: assets/KR6q0030_005.markers.yaml, hash: 'sha256:c89ed23f67b02a38e08c1fd087f408ec13df1693a4462d79940c208192d5b563'}
+  - {seq: 6, role: markers, filename: assets/KR6q0030_006.markers.yaml, hash: 'sha256:0d1bc5e826fa19a53916ffb76ca2c6b4a39ced40ab6f3a12e56f70ce6de115e0'}
+  - {seq: 7, role: markers, filename: assets/KR6q0030_007.markers.yaml, hash: 'sha256:806358f1c0c8a1443df97bfaab938986c49196a7cc80275d0d3244e8d52c1547'}
+  - {seq: 8, role: markers, filename: assets/KR6q0030_008.markers.yaml, hash: 'sha256:4f67d9ef20bde6c9533813feb4e935b64cb02f5ec899577dce1ad954d806b1e0'}
+  - {seq: 9, role: markers, filename: assets/KR6q0030_009.markers.yaml, hash: 'sha256:bdcc152057793a81c08158119ab3943ccd4c894a856ca78fefc7dd6577cf36b3'}
+  - {seq: 10, role: markers, filename: assets/KR6q0030_010.markers.yaml, hash: 'sha256:939490d73ba8a29dccb4006e7439005d092e1a0cd232b960f50f24bbac0bae35'}
+  - {seq: 11, role: markers, filename: assets/KR6q0030_011.markers.yaml, hash: 'sha256:55a2f08429617503e6b2eed630a457193934e456d3221b454ce46e83cbed3d25'}
+  - {seq: 12, role: markers, filename: assets/KR6q0030_012.markers.yaml, hash: 'sha256:93727374888176c198b540f4e194b59ff17d0e40fc0a02019f5a131a6efc95ab'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13891
+  label: 續燈存稾卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 臨濟宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-2
+    span:
+    - body
+    - 24
+    - 24
+  label: 大鑑下第十八世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-3
+    span:
+    - body
+    - 31
+    - 31
+  label: 天童華禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-4
+    span:
+    - body
+    - 38
+    - 38
+  label: 慶元府天童密菴咸傑禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-5
+    span:
+    - body
+    - 893
+    - 893
+  label: 衢州光孝百拙善登禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-6
+    span:
+    - body
+    - 1091
+    - 1091
+  label: 南書記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-7
+    span:
+    - body
+    - 1151
+    - 1151
+  label: 侍郎李浩居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-8
+    span:
+    - body
+    - 1292
+    - 1292
+  label: 教授嚴康朝居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-9
+    span:
+    - body
+    - 1380
+    - 1380
+  label: 教忠光禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-10
+    span:
+    - body
+    - 1387
+    - 1387
+  label: 泉州法石中菴慧空禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-11
+    span:
+    - body
+    - 1610
+    - 1610
+  label: 臨安府淨慈混源曇密禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-12
+    span:
+    - body
+    - 1967
+    - 1967
+  label: 吉州青原信菴唯禋禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-13
+    span:
+    - body
+    - 2589
+    - 2589
+  label: 東林顏禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-14
+    span:
+    - body
+    - 2596
+    - 2596
+  label: 荊州公安遯菴祖珠禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-15
+    span:
+    - body
+    - 2695
+    - 2695
+  label: 汀州報恩法演禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-16
+    span:
+    - body
+    - 2745
+    - 2745
+  label: 臨安府淨慈肯堂彥充禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-17
+    span:
+    - body
+    - 3333
+    - 3333
+  label: 婺州智者元菴真慈禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-18
+    span:
+    - body
+    - 3589
+    - 3589
+  label: 成都府昭覺紹淵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-19
+    span:
+    - body
+    - 4131
+    - 4131
+  label: 徽州簡上座
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-20
+    span:
+    - body
+    - 4261
+    - 4261
+  label: 西禪需禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-21
+    span:
+    - body
+    - 4268
+    - 4268
+  label: 福州鼓山木菴安永禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-22
+    span:
+    - body
+    - 4607
+    - 4607
+  label: 溫州龍翔柏堂南雅禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-23
+    span:
+    - body
+    - 4802
+    - 4802
+  label: 福州天王志清禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-24
+    span:
+    - body
+    - 4914
+    - 4914
+  label: 南劍州劍門安分菴主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-25
+    span:
+    - body
+    - 5222
+    - 5222
+  label: 育王光禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-26
+    span:
+    - body
+    - 5229
+    - 5229
+  label: 杭州靈隱妙峯之善禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-27
+    span:
+    - body
+    - 5797
+    - 5797
+  label: 退谷義雲禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-28
+    span:
+    - body
+    - 6028
+    - 6028
+  label: 明州育王孤雲權禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-29
+    span:
+    - body
+    - 6180
+    - 6180
+  label: 杭州淨慈北磵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-30
+    span:
+    - body
+    - 6749
+    - 6749
+  label: 杭州徑山浙翁如琰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-31
+    span:
+    - body
+    - 6943
+    - 6943
+  label: 福州東禪性空智觀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-32
+    span:
+    - body
+    - 7214
+    - 7214
+  label: 湖州上方朴翁銛禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-33
+    span:
+    - body
+    - 7307
+    - 7307
+  label: 杭州靈隱銕牛印禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-34
+    span:
+    - body
+    - 7402
+    - 7402
+  label: 明州育王空叟宗印禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-35
+    span:
+    - body
+    - 7760
+    - 7760
+  label: 明州育王秀嵒師瑞禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-36
+    span:
+    - body
+    - 8006
+    - 8006
+  label: 明州天童無際了派禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-37
+    span:
+    - body
+    - 8348
+    - 8348
+  label: 石菴正玸禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-38
+    span:
+    - body
+    - 8387
+    - 8387
+  label: 明州天童海門師齊禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-39
+    span:
+    - body
+    - 8466
+    - 8466
+  label: 江州雲居率菴梵琮禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-40
+    span:
+    - body
+    - 8534
+    - 8534
+  label: 東禪嶽禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-41
+    span:
+    - body
+    - 8541
+    - 8541
+  label: 福州鼓山宗逮禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-42
+    span:
+    - body
+    - 8615
+    - 8615
+  label: 杭州徑山寓菴德灊禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-43
+    span:
+    - body
+    - 8641
+    - 8641
+  label: 福州鼓山石菴知玿禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-44
+    span:
+    - body
+    - 8936
+    - 8936
+  label: 天童全禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-45
+    span:
+    - body
+    - 8943
+    - 8943
+  label: 明州育王笑翁妙堪禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-46
+    span:
+    - body
+    - 9533
+    - 9533
+  label: 杭州靈隱石皷希夷禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-47
+    span:
+    - body
+    - 10013
+    - 10013
+  label: 明州雪竇野雲處南禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-48
+    span:
+    - body
+    - 10150
+    - 10150
+  label: 福州雪峯滅堂了宗禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-49
+    span:
+    - body
+    - 10205
+    - 10205
+  label: 幽州盤山思卓禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-50
+    span:
+    - body
+    - 10265
+    - 10265
+  label: 丞相錢象祖居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-51
+    span:
+    - body
+    - 10370
+    - 10370
+  label: 西禪淨禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-52
+    span:
+    - body
+    - 10377
+    - 10377
+  label: 福州乾元宗穎禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-53
+    span:
+    - body
+    - 10426
+    - 10426
+  label: 興化府華嚴別峯雲禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-54
+    span:
+    - body
+    - 10655
+    - 10655
+  label: 福州中濟無禪立才禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-55
+    span:
+    - body
+    - 10840
+    - 10840
+  label: 華藏演禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-56
+    span:
+    - body
+    - 10847
+    - 10847
+  label: 湖州何山月窟慧清禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-57
+    span:
+    - body
+    - 10918
+    - 10918
+  label: 開善謙禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-58
+    span:
+    - body
+    - 10925
+    - 10925
+  label: 建寧府仙州山吳十三道人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-59
+    span:
+    - body
+    - 11025
+    - 11025
+  label: 雪峯然禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-60
+    span:
+    - body
+    - 11032
+    - 11032
+  label: 如如居士顏丙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-61
+    span:
+    - body
+    - 11112
+    - 11112
+  label: 淨慈一禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-62
+    span:
+    - body
+    - 11119
+    - 11119
+  label: 明州天童息菴達觀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-63
+    span:
+    - body
+    - 11227
+    - 11227
+  label: 袁州仰山簡菴嗣清禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-64
+    span:
+    - body
+    - 11311
+    - 11311
+  label: 道場全禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-65
+    span:
+    - body
+    - 11318
+    - 11318
+  label: 常州華藏伊菴有權禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-66
+    span:
+    - body
+    - 11797
+    - 11797
+  label: 焦山體禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-67
+    span:
+    - body
+    - 11804
+    - 11804
+  label: 明州天童癡鈍智穎禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-68
+    span:
+    - body
+    - 11852
+    - 11852
+  label: 徑山印禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-69
+    span:
+    - body
+    - 11859
+    - 11859
+  label: 潤州金山退菴道奇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-70
+    span:
+    - body
+    - 12125
+    - 12125
+  label: 雙林用禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-71
+    span:
+    - body
+    - 12132
+    - 12132
+  label: 婺州三峯印禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-72
+    span:
+    - body
+    - 12179
+    - 12179
+  label: 龜峯光禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-73
+    span:
+    - body
+    - 12186
+    - 12186
+  label: 杭州徑山蒙菴元聰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-74
+    span:
+    - body
+    - 12576
+    - 12576
+  label: 大洪證禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-75
+    span:
+    - body
+    - 12583
+    - 12583
+  label: 蘇州萬壽月林師觀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-76
+    span:
+    - body
+    - 12704
+    - 12704
+  label: 大溈行禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-77
+    span:
+    - body
+    - 12711
+    - 12711
+  label: 常德府德山子涓禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-78
+    span:
+    - body
+    - 12944
+    - 12944
+  label: 萬秊賁禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-79
+    span:
+    - body
+    - 12951
+    - 12951
+  label: 溫州龍鳴在菴賢禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-80
+    span:
+    - body
+    - 13066
+    - 13066
+  label: 潭州大溈咦菴鑑禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-81
+    span:
+    - body
+    - 13337
+    - 13337
+  label: 明州天童雪菴從瑾禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-82
+    span:
+    - body
+    - 13842
+    - 13842
+  label: 雲居會禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0030_X_001-mulu-83
+    span:
+    - body
+    - 13849
+    - 13849
+  label: 萬松壞衲大璉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 12613
+  label: 續燈存稾卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 大鑑下第十九世
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-2
+    span:
+    - body
+    - 31
+    - 31
+  label: 天童傑禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-3
+    span:
+    - body
+    - 38
+    - 38
+  label: 夔州臥龍破菴祖先禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-4
+    span:
+    - body
+    - 856
+    - 856
+  label: 杭州靈隱松源崇嶽禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-5
+    span:
+    - body
+    - 2157
+    - 2157
+  label: 饒州薦福曹源道生禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-6
+    span:
+    - body
+    - 2529
+    - 2529
+  label: 明州天童枯禪自鏡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-7
+    span:
+    - body
+    - 2816
+    - 2816
+  label: 杭州淨慈潛菴慧光禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-8
+    span:
+    - body
+    - 2898
+    - 2898
+  label: 太平府隱靜萬菴致柔禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-9
+    span:
+    - body
+    - 3527
+    - 3527
+  label: 杭州靈隱笑菴了悟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-10
+    span:
+    - body
+    - 3601
+    - 3601
+  label: 金陵蔣山一翁慶如禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-11
+    span:
+    - body
+    - 4123
+    - 4123
+  label: 蘇州承天銕鞭允韶禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-12
+    span:
+    - body
+    - 4445
+    - 4445
+  label: 真祕閣學士張鎡居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-13
+    span:
+    - body
+    - 4616
+    - 4616
+  label: 青原禋禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-14
+    span:
+    - body
+    - 4623
+    - 4623
+  label: 吉州青原淨居正菴宗廣禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-15
+    span:
+    - body
+    - 4780
+    - 4780
+  label: 鼓山永禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-16
+    span:
+    - body
+    - 4787
+    - 4787
+  label: 杭州淨慈晦翁悟明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-17
+    span:
+    - body
+    - 4969
+    - 4969
+  label: 靈隱善禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-18
+    span:
+    - body
+    - 4976
+    - 4976
+  label: 杭州徑山藏叟善珍禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-19
+    span:
+    - body
+    - 5556
+    - 5556
+  label: 杭州淨慈東叟仲穎禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-20
+    span:
+    - body
+    - 5834
+    - 5834
+  label: 吉州龍濟友雲宗鍪禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-21
+    span:
+    - body
+    - 6204
+    - 6204
+  label: 北磵簡禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-22
+    span:
+    - body
+    - 6211
+    - 6211
+  label: 明州育王物初大觀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-23
+    span:
+    - body
+    - 6434
+    - 6434
+  label: 徑山琰禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-24
+    span:
+    - body
+    - 6441
+    - 6441
+  label: 杭州徑山偃溪廣聞禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-25
+    span:
+    - body
+    - 7114
+    - 7114
+  label: 杭州靈隱大川普濟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-26
+    span:
+    - body
+    - 7287
+    - 7287
+  label: 杭州徑山淮海原肇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-27
+    span:
+    - body
+    - 7609
+    - 7609
+  label: 婺州雙林介石朋禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-28
+    span:
+    - body
+    - 7782
+    - 7782
+  label: 明州天童弁山阡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-29
+    span:
+    - body
+    - 7892
+    - 7892
+  label: 蘇州虎丘枯樁曇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-30
+    span:
+    - body
+    - 7945
+    - 7945
+  label: 龍溪文禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-31
+    span:
+    - body
+    - 7979
+    - 7979
+  label: 蘇州虎丘東山道源禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-32
+    span:
+    - body
+    - 8166
+    - 8166
+  label: 明州大慈芝嵒慧洪禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-33
+    span:
+    - body
+    - 8535
+    - 8535
+  label: 明州壽國夢󰈧嗣清禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-34
+    span:
+    - body
+    - 8954
+    - 8954
+  label: 育王印禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-35
+    span:
+    - body
+    - 8961
+    - 8961
+  label: 湖州道場別浦法舟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-36
+    span:
+    - body
+    - 9007
+    - 9007
+  label: 無極觀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-37
+    span:
+    - body
+    - 9047
+    - 9047
+  label: 育王端禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-38
+    span:
+    - body
+    - 9054
+    - 9054
+  label: 明州瑞巖無量崇壽禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-39
+    span:
+    - body
+    - 9209
+    - 9209
+  label: 天童派禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-40
+    span:
+    - body
+    - 9216
+    - 9216
+  label: 明州天寧無鏡徹禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-41
+    span:
+    - body
+    - 9282
+    - 9282
+  label: 鼇峰定禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-42
+    span:
+    - body
+    - 9322
+    - 9322
+  label: 育王堪禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-43
+    span:
+    - body
+    - 9329
+    - 9329
+  label: 饒州薦福無文燦禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-44
+    span:
+    - body
+    - 10794
+    - 10794
+  label: 何山清禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-45
+    span:
+    - body
+    - 10801
+    - 10801
+  label: 福州雪峯北山信禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-46
+    span:
+    - body
+    - 10843
+    - 10843
+  label: 天童觀禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-47
+    span:
+    - body
+    - 10850
+    - 10850
+  label: 蘇州虎丘㑃堂善濟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-48
+    span:
+    - body
+    - 10896
+    - 10896
+  label: 越州天衣嘯嵒文蔚禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-49
+    span:
+    - body
+    - 10984
+    - 10984
+  label: 柏嵒凝和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-50
+    span:
+    - body
+    - 11022
+    - 11022
+  label: 華藏純菴善淨禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-51
+    span:
+    - body
+    - 11068
+    - 11068
+  label: 天童穎禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-52
+    span:
+    - body
+    - 11075
+    - 11075
+  label: 杭州徑山荊叟如珏禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-53
+    span:
+    - body
+    - 11404
+    - 11404
+  label: 福州雪峯大夢德因禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-54
+    span:
+    - body
+    - 11449
+    - 11449
+  label: 金山奇禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-55
+    span:
+    - body
+    - 11456
+    - 11456
+  label: 杭州靈隱高原祖泉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-56
+    span:
+    - body
+    - 11654
+    - 11654
+  label: 萬壽觀禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-57
+    span:
+    - body
+    - 11661
+    - 11661
+  label: 隆興府黃龍無門慧開禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-58
+    span:
+    - body
+    - 12262
+    - 12262
+  label: 興化府囊山孤峯德秀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0030_X_002-mulu-59
+    span:
+    - body
+    - 12445
+    - 12445
+  label: 潭州石霜竹巖玅印禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 13757
+  label: 續燈存稾卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 大鑑下第二十世
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-2
+    span:
+    - body
+    - 31
+    - 31
+  label: 臥龍先禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-3
+    span:
+    - body
+    - 38
+    - 38
+  label: 杭州徑山無準師範禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-4
+    span:
+    - body
+    - 1049
+    - 1049
+  label: 江州雲居即菴慈覺禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-5
+    span:
+    - body
+    - 1322
+    - 1322
+  label: 明州大慈獨菴道儔禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-6
+    span:
+    - body
+    - 1366
+    - 1366
+  label: 杭州靈隱石田法薰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-7
+    span:
+    - body
+    - 2020
+    - 2020
+  label: 靈隱嶽禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-8
+    span:
+    - body
+    - 2027
+    - 2027
+  label: 明州天童滅翁天目文禮禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-9
+    span:
+    - body
+    - 3298
+    - 3298
+  label: 溫州江心石巖希璉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-10
+    span:
+    - body
+    - 3553
+    - 3553
+  label: 台州瑞嵒雲巢岩禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-11
+    span:
+    - body
+    - 3632
+    - 3632
+  label: 華藏無礙覺通禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-12
+    span:
+    - body
+    - 3700
+    - 3700
+  label: 杭州淨慈谷源道禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-13
+    span:
+    - body
+    - 3754
+    - 3754
+  label: 湖州道場北海悟心禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-14
+    span:
+    - body
+    - 3922
+    - 3922
+  label: 明州雪竇大歇仲謙禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-15
+    span:
+    - body
+    - 4113
+    - 4113
+  label: 諾菴肇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-16
+    span:
+    - body
+    - 4235
+    - 4235
+  label: 湖州道場運菴普岩禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-17
+    span:
+    - body
+    - 4315
+    - 4315
+  label: 蘇州虎丘蒺藜曇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-18
+    span:
+    - body
+    - 4538
+    - 4538
+  label: 台州瑞岩少室光睦禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-19
+    span:
+    - body
+    - 4676
+    - 4676
+  label: 鎮江府金山掩室善開禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-20
+    span:
+    - body
+    - 4726
+    - 4726
+  label: 明州雪竇無相範禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-21
+    span:
+    - body
+    - 4845
+    - 4845
+  label: 祕監陸游居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-22
+    span:
+    - body
+    - 4927
+    - 4927
+  label: 薦福生禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-23
+    span:
+    - body
+    - 4934
+    - 4934
+  label: 杭州徑山癡絕道沖禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-24
+    span:
+    - body
+    - 5834
+    - 5834
+  label: 天童鏡禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-25
+    span:
+    - body
+    - 5841
+    - 5841
+  label: 杭州淨慈清溪沅禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-26
+    span:
+    - body
+    - 5920
+    - 5920
+  label: 荊州公安虎溪錫禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-27
+    span:
+    - body
+    - 5969
+    - 5969
+  label: 福州西禪月潭圓禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-28
+    span:
+    - body
+    - 6030
+    - 6030
+  label: 明州育王寂󰈧有照禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-29
+    span:
+    - body
+    - 6360
+    - 6360
+  label: 泉州法石愚谷智禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-30
+    span:
+    - body
+    - 6401
+    - 6401
+  label: 報恩太古先禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-31
+    span:
+    - body
+    - 6546
+    - 6546
+  label: 岊翁淳禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-32
+    span:
+    - body
+    - 6595
+    - 6595
+  label: 隱靜柔禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-33
+    span:
+    - body
+    - 6602
+    - 6602
+  label: 蘇州虎丘雙杉元禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-34
+    span:
+    - body
+    - 6729
+    - 6729
+  label: 徑山珍禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-35
+    span:
+    - body
+    - 6736
+    - 6736
+  label: 杭州徑山元叟行端禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-36
+    span:
+    - body
+    - 7667
+    - 7667
+  label: 淨慈穎禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-37
+    span:
+    - body
+    - 7674
+    - 7674
+  label: 溫州江心一山了萬禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-38
+    span:
+    - body
+    - 8235
+    - 8235
+  label: 明州奉化岳林栯堂益禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-39
+    span:
+    - body
+    - 8668
+    - 8668
+  label: 婺州雙林雲屋自閒禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-40
+    span:
+    - body
+    - 8790
+    - 8790
+  label: 無方安禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-41
+    span:
+    - body
+    - 8797
+    - 8797
+  label: 枯木榮禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-42
+    span:
+    - body
+    - 8835
+    - 8835
+  label: 育王觀禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-43
+    span:
+    - body
+    - 8842
+    - 8842
+  label: 杭州徑山佛智晦機元熈禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-44
+    span:
+    - body
+    - 9390
+    - 9390
+  label: 淨慈聞禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-45
+    span:
+    - body
+    - 9397
+    - 9397
+  label: 杭州徑山雲峯妙高禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-46
+    span:
+    - body
+    - 10251
+    - 10251
+  label: 湖州何山鐵鏡至明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-47
+    span:
+    - body
+    - 10601
+    - 10601
+  label: 明州天童止泓鑒禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-48
+    span:
+    - body
+    - 10858
+    - 10858
+  label: 靈隱濟禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-49
+    span:
+    - body
+    - 10865
+    - 10865
+  label: 明州天童石門來禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-50
+    span:
+    - body
+    - 10908
+    - 10908
+  label: 明州雪竇野翁炳同禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-51
+    span:
+    - body
+    - 11048
+    - 11048
+  label: 雙林朋禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-52
+    span:
+    - body
+    - 11055
+    - 11055
+  label: 杭州靈隱悅堂祖誾禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-53
+    span:
+    - body
+    - 11472
+    - 11472
+  label: 弁山阡禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-54
+    span:
+    - body
+    - 11479
+    - 11479
+  label: 盧山圓通雪溪逸禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-55
+    span:
+    - body
+    - 11523
+    - 11523
+  label: 無鏡徹禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-56
+    span:
+    - body
+    - 11530
+    - 11530
+  label: 岳州灌溪昌禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-57
+    span:
+    - body
+    - 11568
+    - 11568
+  label: 薦福燦禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-58
+    span:
+    - body
+    - 11575
+    - 11575
+  label: 支提愚叟澄鑒禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-59
+    span:
+    - body
+    - 11654
+    - 11654
+  label: 雪峯信禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-60
+    span:
+    - body
+    - 11661
+    - 11661
+  label: 紹興府大慶尼了菴智悟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-61
+    span:
+    - body
+    - 12088
+    - 12088
+  label: 華藏淨禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-62
+    span:
+    - body
+    - 12095
+    - 12095
+  label: 明州天童西江謀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-63
+    span:
+    - body
+    - 12193
+    - 12193
+  label: 福州雪峯石翁玉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-64
+    span:
+    - body
+    - 12236
+    - 12236
+  label: 徑山珏禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-65
+    span:
+    - body
+    - 12243
+    - 12243
+  label: 杭州中竺空巖有禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-66
+    span:
+    - body
+    - 12298
+    - 12298
+  label: 杭州淨慈千瀨善慶禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-67
+    span:
+    - body
+    - 12465
+    - 12465
+  label: 靈隱泉禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-68
+    span:
+    - body
+    - 12472
+    - 12472
+  label: 婺州寶林無機和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-69
+    span:
+    - body
+    - 12639
+    - 12639
+  label: 黃龍開禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-70
+    span:
+    - body
+    - 12646
+    - 12646
+  label: 華藏瞎驢無見和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-71
+    span:
+    - body
+    - 12685
+    - 12685
+  label: 杭州慧雲無傳祖禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-72
+    span:
+    - body
+    - 12771
+    - 12771
+  label: 杭州護國臭菴宗禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-73
+    span:
+    - body
+    - 12963
+    - 12963
+  label: 孤峯秀禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-74
+    span:
+    - body
+    - 12970
+    - 12970
+  label: 福州鼓山皖山正凝禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-75
+    span:
+    - body
+    - 13655
+    - 13655
+  label: 婺州雙林一衲介禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-76
+    span:
+    - body
+    - 13698
+    - 13698
+  label: 容菴海禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0030_X_003-mulu-77
+    span:
+    - body
+    - 13705
+    - 13705
+  label: 葛廬覃禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 11684
+  label: 續燈存稾卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 大鑑下第二十一世之上
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-2
+    span:
+    - body
+    - 34
+    - 34
+  label: 徑山範禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-3
+    span:
+    - body
+    - 41
+    - 41
+  label: 袁州仰山雪巖祖欽禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-4
+    span:
+    - body
+    - 1976
+    - 1976
+  label: 台州國清靈叟源禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-5
+    span:
+    - body
+    - 2175
+    - 2175
+  label: 明州天童別山祖智禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-6
+    span:
+    - body
+    - 2561
+    - 2561
+  label: 福州雪峯環溪一禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-7
+    span:
+    - body
+    - 2671
+    - 2671
+  label: 杭州淨慈斷橋妙倫禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-8
+    span:
+    - body
+    - 3191
+    - 3191
+  label: 明州天童月坡明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-9
+    span:
+    - body
+    - 3343
+    - 3343
+  label: 廬山東林指南直禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-10
+    span:
+    - body
+    - 3387
+    - 3387
+  label: 明州雪竇希叟紹曇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-11
+    span:
+    - body
+    - 3786
+    - 3786
+  label: 杭州靈隱退耕寧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-12
+    span:
+    - body
+    - 4035
+    - 4035
+  label: 福州雪峯絕岸可湘禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-13
+    span:
+    - body
+    - 4282
+    - 4282
+  label: 明州天童西巖了慧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-14
+    span:
+    - body
+    - 5080
+    - 5080
+  label: 越州光孝石室輝禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-15
+    span:
+    - body
+    - 5168
+    - 5168
+  label: 靈隱薰禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-16
+    span:
+    - body
+    - 5175
+    - 5175
+  label: 杭州淨慈愚極慧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-17
+    span:
+    - body
+    - 5430
+    - 5430
+  label: 杭州中竺雪屋珂禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-18
+    span:
+    - body
+    - 5622
+    - 5622
+  label: 天童禮禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-19
+    span:
+    - body
+    - 5629
+    - 5629
+  label: 明州育王橫川如珙禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-20
+    span:
+    - body
+    - 6883
+    - 6883
+  label: 杭州淨慈石林行鞏禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-21
+    span:
+    - body
+    - 7312
+    - 7312
+  label: 嘉興府天寧冰谷衍禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-22
+    span:
+    - body
+    - 7472
+    - 7472
+  label: 蘇州虎丘雲畊靖禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-23
+    span:
+    - body
+    - 7817
+    - 7817
+  label: 雲巢巖禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-24
+    span:
+    - body
+    - 7824
+    - 7824
+  label: 蘇州萬壽訥堂辯禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-25
+    span:
+    - body
+    - 8208
+    - 8208
+  label: 蘇州虎丘清溪義禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-26
+    span:
+    - body
+    - 8249
+    - 8249
+  label: 華藏通禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-27
+    span:
+    - body
+    - 8256
+    - 8256
+  label: 杭州徑山虗舟普度禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-28
+    span:
+    - body
+    - 8807
+    - 8807
+  label: 淨慈道禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-29
+    span:
+    - body
+    - 8814
+    - 8814
+  label: 蘇州萬壽高峯嶽禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-30
+    span:
+    - body
+    - 8855
+    - 8855
+  label: 雪竇謙禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-31
+    span:
+    - body
+    - 8862
+    - 8862
+  label: 蘇州承天覺菴夢真禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-32
+    span:
+    - body
+    - 9655
+    - 9655
+  label: 霍山昭禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-33
+    span:
+    - body
+    - 9711
+    - 9711
+  label: 慧巖象潭泳禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-34
+    span:
+    - body
+    - 9795
+    - 9795
+  label: 一關溥禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-35
+    span:
+    - body
+    - 9868
+    - 9868
+  label: 台州國清溪西澤禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-36
+    span:
+    - body
+    - 10208
+    - 10208
+  label: 道場巖禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-37
+    span:
+    - body
+    - 10215
+    - 10215
+  label: 杭州徑山虗堂智愚禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-38
+    span:
+    - body
+    - 10894
+    - 10894
+  label: 明州天童石帆衍禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-39
+    span:
+    - body
+    - 11027
+    - 11027
+  label: 金山開禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-40
+    span:
+    - body
+    - 11034
+    - 11034
+  label: 杭州徑山石溪心月禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-41
+    span:
+    - body
+    - 11416
+    - 11416
+  label: 徑山沖禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-42
+    span:
+    - body
+    - 11423
+    - 11423
+  label: 福州神光北山隆禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-43
+    span:
+    - body
+    - 11514
+    - 11514
+  label: 高臺此山應禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0030_X_004-mulu-44
+    span:
+    - body
+    - 11591
+    - 11591
+  label: 明州天童簡翁敬禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 18708
+  label: 續燈存稾卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 大鑑下第二十一世之下
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-2
+    span:
+    - body
+    - 31
+    - 31
+  label: 育王照禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-3
+    span:
+    - body
+    - 38
+    - 38
+  label: 湖州道場龍源介清禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-4
+    span:
+    - body
+    - 171
+    - 171
+  label: 徑山端禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-5
+    span:
+    - body
+    - 178
+    - 178
+  label: 杭州靈隱性原慧朗禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-6
+    span:
+    - body
+    - 1022
+    - 1022
+  label: 嘉興府天寧楚石梵琦禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-7
+    span:
+    - body
+    - 4248
+    - 4248
+  label: 杭州徑山愚菴以中智及禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-8
+    span:
+    - body
+    - 6949
+    - 6949
+  label: 杭州靈隱樸隱天鏡元瀞禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-9
+    span:
+    - body
+    - 7498
+    - 7498
+  label: 蘇州萬壽行中至仁禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-10
+    span:
+    - body
+    - 8016
+    - 8016
+  label: 明州瑞龍夢堂曇噩禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-11
+    span:
+    - body
+    - 8416
+    - 8416
+  label: 杭州徑山復原福報禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-12
+    span:
+    - body
+    - 8921
+    - 8921
+  label: 杭州靈隱竹泉了幻法林禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-13
+    span:
+    - body
+    - 9610
+    - 9610
+  label: 杭州徑山古鼎祖銘禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-14
+    span:
+    - body
+    - 10164
+    - 10164
+  label: 明州天寧歸菴仲猷祖闡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-15
+    span:
+    - body
+    - 10373
+    - 10373
+  label: 蘇州開元愚仲善如禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-16
+    span:
+    - body
+    - 10664
+    - 10664
+  label: 杭州上竺我菴本無法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-17
+    span:
+    - body
+    - 10871
+    - 10871
+  label: 蘇州萬壽佛初智淳禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-18
+    span:
+    - body
+    - 10963
+    - 10963
+  label: 江心萬禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-19
+    span:
+    - body
+    - 10970
+    - 10970
+  label: 報恩無方智普禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-20
+    span:
+    - body
+    - 11096
+    - 11096
+  label: 南康府雲居小隱師大禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-21
+    span:
+    - body
+    - 11143
+    - 11143
+  label: 徑山熈禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-22
+    span:
+    - body
+    - 11150
+    - 11150
+  label: 金陵集慶笑隱大訢禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-23
+    span:
+    - body
+    - 12497
+    - 12497
+  label: 嘉興府祥符梅屋念常禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-24
+    span:
+    - body
+    - 12704
+    - 12704
+  label: 明州雪竇石室祖瑛禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-25
+    span:
+    - body
+    - 12936
+    - 12936
+  label: 杭州中竺一關正逵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-26
+    span:
+    - body
+    - 13222
+    - 13222
+  label: 明州佛巖仲方天倫禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-27
+    span:
+    - body
+    - 13884
+    - 13884
+  label: 越州天衣業海子清禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-28
+    span:
+    - body
+    - 14225
+    - 14225
+  label: 徑山高禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-29
+    span:
+    - body
+    - 14232
+    - 14232
+  label: 杭州中竺一溪自如禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-30
+    span:
+    - body
+    - 14453
+    - 14453
+  label: 江州東林古智󳭷禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-31
+    span:
+    - body
+    - 14705
+    - 14705
+  label: 明州天童怪石奇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-32
+    span:
+    - body
+    - 14887
+    - 14887
+  label: 杭州徑山本源善達禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-33
+    span:
+    - body
+    - 15039
+    - 15039
+  label: 龍巖真首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-34
+    span:
+    - body
+    - 15266
+    - 15266
+  label: 何山明禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-35
+    span:
+    - body
+    - 15273
+    - 15273
+  label: 明州恭都寺者
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-36
+    span:
+    - body
+    - 15354
+    - 15354
+  label: 天童鑒禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-37
+    span:
+    - body
+    - 15361
+    - 15361
+  label: 明州雪竇竺田汝霖禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-38
+    span:
+    - body
+    - 15518
+    - 15518
+  label: 湖州道場玉溪思珉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-39
+    span:
+    - body
+    - 15819
+    - 15819
+  label: 靈隱誾禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-40
+    span:
+    - body
+    - 15826
+    - 15826
+  label: 杭州徑山月江宗淨禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-41
+    span:
+    - body
+    - 16010
+    - 16010
+  label: 江州東林無外宗廓禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-42
+    span:
+    - body
+    - 16123
+    - 16123
+  label: 中竺有禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-43
+    span:
+    - body
+    - 16130
+    - 16130
+  label: 嘉興府石門真覺元翁信禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-44
+    span:
+    - body
+    - 16479
+    - 16479
+  label: 風旛中禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-45
+    span:
+    - body
+    - 16486
+    - 16486
+  label: 呂銕船居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-46
+    span:
+    - body
+    - 16705
+    - 16705
+  label: 華藏見禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-47
+    span:
+    - body
+    - 16712
+    - 16712
+  label: 蘇州陽山金芝嶺銕𭪿念菴主
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-48
+    span:
+    - body
+    - 16969
+    - 16969
+  label: 皖山凝禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-49
+    span:
+    - body
+    - 16976
+    - 16976
+  label: 松江府澱山蒙山德異禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-50
+    span:
+    - body
+    - 17489
+    - 17489
+  label: 金牛真禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-51
+    span:
+    - body
+    - 17496
+    - 17496
+  label: 舒州太湖普明無用寬禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-52
+    span:
+    - body
+    - 17672
+    - 17672
+  label: 真翁圓禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-53
+    span:
+    - body
+    - 17679
+    - 17679
+  label: 無為州天寧無能教禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-54
+    span:
+    - body
+    - 17886
+    - 17886
+  label: 慶壽璋禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0030_X_005-mulu-55
+    span:
+    - body
+    - 17893
+    - 17893
+  label: 北京大慶壽海雲印簡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 18082
+  label: 續燈存稾卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 大鑑下第二十二世
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-2
+    span:
+    - body
+    - 32
+    - 32
+  label: 仰山欽禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-3
+    span:
+    - body
+    - 39
+    - 39
+  label: 杭州西天目山高峯原玅禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-4
+    span:
+    - body
+    - 1830
+    - 1830
+  label: 衡州靈雲銕牛持定禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-5
+    span:
+    - body
+    - 2434
+    - 2434
+  label: 杭州徑山西白虗谷希陵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-6
+    span:
+    - body
+    - 3179
+    - 3179
+  label: 袁州慈化銕山瓊禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-7
+    span:
+    - body
+    - 3420
+    - 3420
+  label: 建昌府能仁天隱牧潛圓至禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-8
+    span:
+    - body
+    - 3691
+    - 3691
+  label: 淨慈倫禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-9
+    span:
+    - body
+    - 3698
+    - 3698
+  label: 竹屋簡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-10
+    span:
+    - body
+    - 3809
+    - 3809
+  label: 絕象鑒禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-11
+    span:
+    - body
+    - 3970
+    - 3970
+  label: 台州瑞巖方山寶禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-12
+    span:
+    - body
+    - 4174
+    - 4174
+  label: 永中本禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-13
+    span:
+    - body
+    - 4221
+    - 4221
+  label: 無學元禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-14
+    span:
+    - body
+    - 4228
+    - 4228
+  label: 金陵蔣山月庭忠禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-15
+    span:
+    - body
+    - 4417
+    - 4417
+  label: 育王珙禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-16
+    span:
+    - body
+    - 4424
+    - 4424
+  label: 蘇州崑山薦嚴竺元妙道禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-17
+    span:
+    - body
+    - 4792
+    - 4792
+  label: 金陵保寧古林清茂禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-18
+    span:
+    - body
+    - 7353
+    - 7353
+  label: 越州天衣斷江覺恩禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-19
+    span:
+    - body
+    - 7590
+    - 7590
+  label: 淨慈鞏禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-20
+    span:
+    - body
+    - 7597
+    - 7597
+  label: 杭州靈隱東嶼德海禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-21
+    span:
+    - body
+    - 7938
+    - 7938
+  label: 嘉興府天寧竺雲景曇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-22
+    span:
+    - body
+    - 8030
+    - 8030
+  label: 蘇州虎丘東州壽永禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-23
+    span:
+    - body
+    - 8112
+    - 8112
+  label: 徑山度禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-24
+    span:
+    - body
+    - 8119
+    - 8119
+  label: 杭州徑山虎岩淨伏禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-25
+    span:
+    - body
+    - 8336
+    - 8336
+  label: 明州天童竺西坦禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-26
+    span:
+    - body
+    - 8496
+    - 8496
+  label: 徑山愚禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-27
+    span:
+    - body
+    - 8503
+    - 8503
+  label: 越州定水寶葉源禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-28
+    span:
+    - body
+    - 8623
+    - 8623
+  label: 蘇州虎丘閒極雲禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-29
+    span:
+    - body
+    - 8893
+    - 8893
+  label: 徑山月禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-30
+    span:
+    - body
+    - 8900
+    - 8900
+  label: 南叟茂禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-31
+    span:
+    - body
+    - 9136
+    - 9136
+  label: 育王彌禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-32
+    span:
+    - body
+    - 9143
+    - 9143
+  label: 明州育王東生德明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-33
+    span:
+    - body
+    - 9298
+    - 9298
+  label: 徑山及禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-34
+    span:
+    - body
+    - 9305
+    - 9305
+  label: 杭州靈隱空叟忻悟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-35
+    span:
+    - body
+    - 9526
+    - 9526
+  label: 少師姚廣孝
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-36
+    span:
+    - body
+    - 9766
+    - 9766
+  label: 萬壽仁禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-37
+    span:
+    - body
+    - 9773
+    - 9773
+  label: 杭州徑山南石文琇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-38
+    span:
+    - body
+    - 11236
+    - 11236
+  label: 徑山銘禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-39
+    span:
+    - body
+    - 11243
+    - 11243
+  label: 嘉興府天寧西白力金禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-40
+    span:
+    - body
+    - 11404
+    - 11404
+  label: 杭州徑山象源仁淑禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-41
+    span:
+    - body
+    - 11439
+    - 11439
+  label: 龍翔訢禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-42
+    span:
+    - body
+    - 11446
+    - 11446
+  label: 金陵天界覺原慧曇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-43
+    span:
+    - body
+    - 12372
+    - 12372
+  label: 金陵天界善世全室宗泐禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-44
+    span:
+    - body
+    - 13206
+    - 13206
+  label: 杭州中竺用彰嬾翁廷俊禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-45
+    span:
+    - body
+    - 14586
+    - 14586
+  label: 杭州靈隱介菴用真輔良禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-46
+    span:
+    - body
+    - 14839
+    - 14839
+  label: 廬山圓通約之崇󱚉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-47
+    span:
+    - body
+    - 14991
+    - 14991
+  label: 雪竇霖禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-48
+    span:
+    - body
+    - 14998
+    - 14998
+  label: 杭州淨慈孤峯明德禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-49
+    span:
+    - body
+    - 15357
+    - 15357
+  label: 天池信禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-50
+    span:
+    - body
+    - 15364
+    - 15364
+  label: 福州天寶銕關法樞禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-51
+    span:
+    - body
+    - 16766
+    - 16766
+  label: 蒙山異禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-52
+    span:
+    - body
+    - 16773
+    - 16773
+  label: 孤舟濟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-53
+    span:
+    - body
+    - 16880
+    - 16880
+  label: 太湖寬禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-54
+    span:
+    - body
+    - 16887
+    - 16887
+  label: 常州宜興龍池一源永寧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-55
+    span:
+    - body
+    - 17704
+    - 17704
+  label: 無能教禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0030_X_006-mulu-56
+    span:
+    - body
+    - 17711
+    - 17711
+  label: 杭州玅果竺源水盛禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 24140
+  label: 續燈存稾卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 大鑑下第二十三世
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-2
+    span:
+    - body
+    - 32
+    - 32
+  label: 天目妙禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-3
+    span:
+    - body
+    - 39
+    - 39
+  label: 杭州天目中峯明本禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-4
+    span:
+    - body
+    - 2592
+    - 2592
+  label: 杭州天目斷崖了義禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-5
+    span:
+    - body
+    - 3420
+    - 3420
+  label: 大覺布衲祖雍禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-6
+    span:
+    - body
+    - 3792
+    - 3792
+  label: 靈雲定禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-7
+    span:
+    - body
+    - 3799
+    - 3799
+  label: 般若絕學世誠禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-8
+    span:
+    - body
+    - 3915
+    - 3915
+  label: 徑山陵禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-9
+    span:
+    - body
+    - 3922
+    - 3922
+  label: 杭州徑山竺遠正源禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-10
+    span:
+    - body
+    - 4065
+    - 4065
+  label: 婺州寶林桐江紹大禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-11
+    span:
+    - body
+    - 4256
+    - 4256
+  label: 銕山瓊禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-12
+    span:
+    - body
+    - 4263
+    - 4263
+  label: 汝州香嚴無聞思聰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-13
+    span:
+    - body
+    - 4918
+    - 4918
+  label: 道塲信禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-14
+    span:
+    - body
+    - 4925
+    - 4925
+  label: 湖州福源石屋清珙禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-15
+    span:
+    - body
+    - 6460
+    - 6460
+  label: 杭州淨慈平山處林禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-16
+    span:
+    - body
+    - 6774
+    - 6774
+  label: 婺州羅山正覺石門至剛禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-17
+    span:
+    - body
+    - 7106
+    - 7106
+  label: 匡廬源禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-18
+    span:
+    - body
+    - 7113
+    - 7113
+  label: 杭州海門天真惟則禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-19
+    span:
+    - body
+    - 7958
+    - 7958
+  label: 瑞巖寶禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-20
+    span:
+    - body
+    - 7965
+    - 7965
+  label: 台州華頂無見先覩禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-21
+    span:
+    - body
+    - 8273
+    - 8273
+  label: 明州松巖秋江元湛禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-22
+    span:
+    - body
+    - 8465
+    - 8465
+  label: 杭州鳳山一源靈禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-23
+    span:
+    - body
+    - 8700
+    - 8700
+  label: 東巖日禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-24
+    span:
+    - body
+    - 8707
+    - 8707
+  label: 明州天童平石砥禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-25
+    span:
+    - body
+    - 8785
+    - 8785
+  label: 高峯日禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-26
+    span:
+    - body
+    - 8792
+    - 8792
+  label: 日本國夢󰈧智曤國師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-27
+    span:
+    - body
+    - 8978
+    - 8978
+  label: 薦嚴道禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-28
+    span:
+    - body
+    - 8985
+    - 8985
+  label: 台州瑞巖空室恕中無慍禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-29
+    span:
+    - body
+    - 12168
+    - 12168
+  label: 明州天童了堂一禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-30
+    span:
+    - body
+    - 12708
+    - 12708
+  label: 徑山大宗興禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-31
+    span:
+    - body
+    - 12762
+    - 12762
+  label: 保寧茂禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-32
+    span:
+    - body
+    - 12769
+    - 12769
+  label: 蘇州靈巖南堂了菴清欲禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-33
+    span:
+    - body
+    - 15309
+    - 15309
+  label: 蘇州定慧大方禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-34
+    span:
+    - body
+    - 15720
+    - 15720
+  label: 明州瑞雲清凉實菴松隱茂禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-35
+    span:
+    - body
+    - 16029
+    - 16029
+  label: 溫州僊岩仲謀猷禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-36
+    span:
+    - body
+    - 16092
+    - 16092
+  label: 越州龍華會翁海禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-37
+    span:
+    - body
+    - 16297
+    - 16297
+  label: 靈隱海禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-38
+    span:
+    - body
+    - 16304
+    - 16304
+  label: 明州育王大千慧照禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-39
+    span:
+    - body
+    - 16635
+    - 16635
+  label: 杭州徑山悅堂顏禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-40
+    span:
+    - body
+    - 16680
+    - 16680
+  label: 明州育王雪󰈧悟光禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-41
+    span:
+    - body
+    - 16744
+    - 16744
+  label: 杭州徑山月林鏡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-42
+    span:
+    - body
+    - 16840
+    - 16840
+  label: 建寧府斗峯大圭正璋禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-43
+    span:
+    - body
+    - 17127
+    - 17127
+  label: 椔塘明因天淵湛禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-44
+    span:
+    - body
+    - 17256
+    - 17256
+  label: 天寧曇禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-45
+    span:
+    - body
+    - 17263
+    - 17263
+  label: 三空道人
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-46
+    span:
+    - body
+    - 17381
+    - 17381
+  label: 天童坦禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-47
+    span:
+    - body
+    - 17388
+    - 17388
+  label: 金陵天界孚中懷信禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-48
+    span:
+    - body
+    - 17704
+    - 17704
+  label: 天寧舜田明牧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-49
+    span:
+    - body
+    - 17899
+    - 17899
+  label: 玉山珍禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-50
+    span:
+    - body
+    - 17906
+    - 17906
+  label: 金陵蔣山曇芳忠禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-51
+    span:
+    - body
+    - 17994
+    - 17994
+  label: 徑山伏禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-52
+    span:
+    - body
+    - 18001
+    - 18001
+  label: 明州育王月江正印禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-53
+    span:
+    - body
+    - 20236
+    - 20236
+  label: 杭州徑山南楚悅禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-54
+    span:
+    - body
+    - 20314
+    - 20314
+  label: 雙林誾禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-55
+    span:
+    - body
+    - 20321
+    - 20321
+  label: 杭州徑山月江宗淨禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-56
+    span:
+    - body
+    - 20407
+    - 20407
+  label: 西白金禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-57
+    span:
+    - body
+    - 20414
+    - 20414
+  label: 金陵保寧敏機覺慧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-58
+    span:
+    - body
+    - 20463
+    - 20463
+  label: 時菴敷禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-59
+    span:
+    - body
+    - 20470
+    - 20470
+  label: 杭州淨慈佛鑑簡菴希古師󰬇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-60
+    span:
+    - body
+    - 20707
+    - 20707
+  label: 天界曇禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-61
+    span:
+    - body
+    - 20714
+    - 20714
+  label: 金陵靈谷定巖淨戒禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-62
+    span:
+    - body
+    - 20950
+    - 20950
+  label: 天界泐禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-63
+    span:
+    - body
+    - 20957
+    - 20957
+  label: 明州天童佛朗湛然自性禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-64
+    span:
+    - body
+    - 21936
+    - 21936
+  label: 淨慈德禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-65
+    span:
+    - body
+    - 21943
+    - 21943
+  label: 杭州靈隱無文本褧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-66
+    span:
+    - body
+    - 22290
+    - 22290
+  label: 止嚴成禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-67
+    span:
+    - body
+    - 22297
+    - 22297
+  label: 衢州烏石傑峯世愚禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-68
+    span:
+    - body
+    - 23055
+    - 23055
+  label: 天寶樞禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-69
+    span:
+    - body
+    - 23062
+    - 23062
+  label: 杭州淨慈逆川智順禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-70
+    span:
+    - body
+    - 23470
+    - 23470
+  label: 縉雲真禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0030_X_007-mulu-71
+    span:
+    - body
+    - 23477
+    - 23477
+  label: 五臺山壁峯寶金禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 11275
+  label: 續燈存稾卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 大鑑下第二十四世
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-2
+    span:
+    - body
+    - 32
+    - 32
+  label: 天目本禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-3
+    span:
+    - body
+    - 39
+    - 39
+  label: 婺州烏傷伏龍無明千巖元長禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-4
+    span:
+    - body
+    - 2480
+    - 2480
+  label: 蘇州師子林天如惟則禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-5
+    span:
+    - body
+    - 4087
+    - 4087
+  label: 日本國建長古先印原禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-6
+    span:
+    - body
+    - 4481
+    - 4481
+  label: 般若誠禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-7
+    span:
+    - body
+    - 4488
+    - 4488
+  label: 建寧府高仰山古梅正友禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-8
+    span:
+    - body
+    - 4813
+    - 4813
+  label: 智者義禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-9
+    span:
+    - body
+    - 4820
+    - 4820
+  label: 杭州淨慈德隱普仁禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-10
+    span:
+    - body
+    - 4991
+    - 4991
+  label: 淨慈林禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-11
+    span:
+    - body
+    - 4998
+    - 4998
+  label: 杭州止菴德祥禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-12
+    span:
+    - body
+    - 5146
+    - 5146
+  label: 金陵天界同菴易道夷簡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-13
+    span:
+    - body
+    - 5200
+    - 5200
+  label: 海門則禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-14
+    span:
+    - body
+    - 5207
+    - 5207
+  label: 湖州弁山白蓮南極懶雲智安禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-15
+    span:
+    - body
+    - 5343
+    - 5343
+  label: 華頂睹禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-16
+    span:
+    - body
+    - 5350
+    - 5350
+  label: 處州福林白雲智度禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-17
+    span:
+    - body
+    - 5715
+    - 5715
+  label: 天童一禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-18
+    span:
+    - body
+    - 5722
+    - 5722
+  label: 杭州徑山呆菴敬中普莊禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-19
+    span:
+    - body
+    - 7718
+    - 7718
+  label: 壽昌源禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-20
+    span:
+    - body
+    - 7725
+    - 7725
+  label: 明州天童元明原良禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-21
+    span:
+    - body
+    - 7847
+    - 7847
+  label: 天界信禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-22
+    span:
+    - body
+    - 7854
+    - 7854
+  label: 溫州江心覺初慧恩禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-23
+    span:
+    - body
+    - 7919
+    - 7919
+  label: 徑山悅禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-24
+    span:
+    - body
+    - 7926
+    - 7926
+  label: 越州悲谿定水見心來復禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-25
+    span:
+    - body
+    - 10276
+    - 10276
+  label: 靈隱明禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-26
+    span:
+    - body
+    - 10283
+    - 10283
+  label: 杭州淨慈休菴無旨可授禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-27
+    span:
+    - body
+    - 10488
+    - 10488
+  label: 祖芳聯禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-28
+    span:
+    - body
+    - 10495
+    - 10495
+  label: 杭州普明立中成禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-29
+    span:
+    - body
+    - 10652
+    - 10652
+  label: 杭州淨慈照菴宗靜禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-30
+    span:
+    - body
+    - 10780
+    - 10780
+  label: 烏石愚禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-31
+    span:
+    - body
+    - 10787
+    - 10787
+  label: 溫州瑞安護龍太初啟原禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0030_X_008-mulu-32
+    span:
+    - body
+    - 11060
+    - 11060
+  label: 金陵靈谷非幻無涯永禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 14531
+  label: 續燈存稾卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 大鑑下第二十五世
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-2
+    span:
+    - body
+    - 32
+    - 32
+  label: 伏龍長禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-3
+    span:
+    - body
+    - 39
+    - 39
+  label: 蘇州鄧尉萬峯時蔚禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-4
+    span:
+    - body
+    - 1030
+    - 1030
+  label: 杭州天龍水菴無用守貴禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-5
+    span:
+    - body
+    - 1251
+    - 1251
+  label: 松江府華亭松隱唯菴德然禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-6
+    span:
+    - body
+    - 2701
+    - 2701
+  label: 婺州清隱蘭室德馨禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-7
+    span:
+    - body
+    - 2888
+    - 2888
+  label: 婺州華山明叟昌菴主
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-8
+    span:
+    - body
+    - 2969
+    - 2969
+  label: 古梅友禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-9
+    span:
+    - body
+    - 2976
+    - 2976
+  label: 潤州金山慈舟濟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-10
+    span:
+    - body
+    - 3062
+    - 3062
+  label: 一峯寧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-11
+    span:
+    - body
+    - 3107
+    - 3107
+  label: 弁山安禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-12
+    span:
+    - body
+    - 3114
+    - 3114
+  label: 杭州正傳院祖庭空谷景隆禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-13
+    span:
+    - body
+    - 3646
+    - 3646
+  label: 福林度禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-14
+    span:
+    - body
+    - 3653
+    - 3653
+  label: 金陵天界古拙俊禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-15
+    span:
+    - body
+    - 4208
+    - 4208
+  label: 大鑑下第二十六世
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-16
+    span:
+    - body
+    - 4216
+    - 4216
+  label: 萬峯蔚禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-17
+    span:
+    - body
+    - 4223
+    - 4223
+  label: 蘇州鄧尉寶藏普持禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-18
+    span:
+    - body
+    - 4283
+    - 4283
+  label: 瑞州九峯無念勝學禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-19
+    span:
+    - body
+    - 4660
+    - 4660
+  label: 海舟慈禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-20
+    span:
+    - body
+    - 4715
+    - 4715
+  label: 果林首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-21
+    span:
+    - body
+    - 4764
+    - 4764
+  label: 金山濟禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-22
+    span:
+    - body
+    - 4771
+    - 4771
+  label: 杉關福田西竺本來禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-23
+    span:
+    - body
+    - 5041
+    - 5041
+  label: 天界俊禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-24
+    span:
+    - body
+    - 5048
+    - 5048
+  label: 東普無際明悟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-25
+    span:
+    - body
+    - 5489
+    - 5489
+  label: 杭州虎跑性天如皎禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-26
+    span:
+    - body
+    - 5689
+    - 5689
+  label: 何密菴居士法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-27
+    span:
+    - body
+    - 5696
+    - 5696
+  label: 揚州素菴田大士
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-28
+    span:
+    - body
+    - 5844
+    - 5844
+  label: 大鑑下第二十七世
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-29
+    span:
+    - body
+    - 5852
+    - 5852
+  label: 鄧尉持禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-30
+    span:
+    - body
+    - 5859
+    - 5859
+  label: 杭州東明虗白慧旵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-31
+    span:
+    - body
+    - 6328
+    - 6328
+  label: 福田來禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-32
+    span:
+    - body
+    - 6335
+    - 6335
+  label: 建寧府天界雪骨會中禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-33
+    span:
+    - body
+    - 6466
+    - 6466
+  label: 東普悟禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-34
+    span:
+    - body
+    - 6473
+    - 6473
+  label: 舒州投子楚山幻叟荊璧紹琦禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-35
+    span:
+    - body
+    - 8444
+    - 8444
+  label: 雲南府古庭善堅禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-36
+    span:
+    - body
+    - 8853
+    - 8853
+  label: 素菴田大士法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-37
+    span:
+    - body
+    - 8860
+    - 8860
+  label: 佛跡頤菴真禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-38
+    span:
+    - body
+    - 9153
+    - 9153
+  label: 大鑑下第二十八世
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-39
+    span:
+    - body
+    - 9161
+    - 9161
+  label: 東明旵禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-40
+    span:
+    - body
+    - 9168
+    - 9168
+  label: 金陵東山翼善海舟永慈禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-41
+    span:
+    - body
+    - 9395
+    - 9395
+  label: 水心月江覺淨禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-42
+    span:
+    - body
+    - 9509
+    - 9509
+  label: 天界中禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-43
+    span:
+    - body
+    - 9516
+    - 9516
+  label: 邵武府君峯大闡慧通禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-44
+    span:
+    - body
+    - 9667
+    - 9667
+  label: 投子琦禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-45
+    span:
+    - body
+    - 9674
+    - 9674
+  label: 金陵高座古溪覺澄禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-46
+    span:
+    - body
+    - 9956
+    - 9956
+  label: 襄陽府大雲興禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-47
+    span:
+    - body
+    - 10061
+    - 10061
+  label: 𣵠州金山寶禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-48
+    span:
+    - body
+    - 10228
+    - 10228
+  label: 唐安湛淵奫禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-49
+    span:
+    - body
+    - 10414
+    - 10414
+  label: 石經海珠祖意禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-50
+    span:
+    - body
+    - 10538
+    - 10538
+  label: 長松大心真源禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-51
+    span:
+    - body
+    - 10642
+    - 10642
+  label: 松藩大悲崇善一天智中國師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-52
+    span:
+    - body
+    - 10783
+    - 10783
+  label: 石經豁堂祖󱚉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-53
+    span:
+    - body
+    - 10871
+    - 10871
+  label: 三池月光常慧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-54
+    span:
+    - body
+    - 10962
+    - 10962
+  label: 中溪隱山昌雲禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-55
+    span:
+    - body
+    - 11054
+    - 11054
+  label: 珪菴祖玠侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-56
+    span:
+    - body
+    - 11249
+    - 11249
+  label: 翠微悟空禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-57
+    span:
+    - body
+    - 11352
+    - 11352
+  label: 雲南堅禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-58
+    span:
+    - body
+    - 11359
+    - 11359
+  label: 五臺山顯通大巍淨倫禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-59
+    span:
+    - body
+    - 12199
+    - 12199
+  label: 大岡澄禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-60
+    span:
+    - body
+    - 12206
+    - 12206
+  label: 杭州天真毒峯本善禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-61
+    span:
+    - body
+    - 13051
+    - 13051
+  label: 五臺山普濟孤月淨澄禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-62
+    span:
+    - body
+    - 13347
+    - 13347
+  label: 夷峯寧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-63
+    span:
+    - body
+    - 13376
+    - 13376
+  label: 廣善潭禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-64
+    span:
+    - body
+    - 13383
+    - 13383
+  label: 鳳陽府槎山護國無用文全禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-65
+    span:
+    - body
+    - 13867
+    - 13867
+  label: 崇福大慧覺華禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-66
+    span:
+    - body
+    - 13997
+    - 13997
+  label: 󰬇菴真禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-67
+    span:
+    - body
+    - 14003
+    - 14003
+  label: 處州白雲無量滄禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-68
+    span:
+    - body
+    - 14093
+    - 14093
+  label: 和菴忠禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-69
+    span:
+    - body
+    - 14100
+    - 14100
+  label: 明州用剛宗軟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-70
+    span:
+    - body
+    - 14226
+    - 14226
+  label: 大鑑下第二十九世
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-71
+    span:
+    - body
+    - 14234
+    - 14234
+  label: 金陵慈禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-72
+    span:
+    - body
+    - 14241
+    - 14241
+  label: 金陵高峯寶峰智瑄禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-73
+    span:
+    - body
+    - 14431
+    - 14431
+  label: 廬山雲溪碧峯智英禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-74
+    span:
+    - body
+    - 14491
+    - 14491
+  label: 夷峯寧禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0030_X_009-mulu-75
+    span:
+    - body
+    - 14498
+    - 14498
+  label: 杭州天目寶芳進禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 18687
+  label: 續燈存稾卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 大鑑下第三十世
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-2
+    span:
+    - body
+    - 31
+    - 31
+  label: 寶峯瑄禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-3
+    span:
+    - body
+    - 38
+    - 38
+  label: 竟陵荊門天琦本瑞禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-4
+    span:
+    - body
+    - 936
+    - 936
+  label: 雲溪瑛禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-5
+    span:
+    - body
+    - 943
+    - 943
+  label: 匡山天池林隱淨菴智素禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-6
+    span:
+    - body
+    - 1081
+    - 1081
+  label: 寶芳進禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-7
+    span:
+    - body
+    - 1088
+    - 1088
+  label: 嘉興府東塔野翁曉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-8
+    span:
+    - body
+    - 1246
+    - 1246
+  label: 吉菴祚禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-9
+    span:
+    - body
+    - 1253
+    - 1253
+  label: 嘉興府天寧法舟道濟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-10
+    span:
+    - body
+    - 2137
+    - 2137
+  label: 天通顯禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-11
+    span:
+    - body
+    - 2144
+    - 2144
+  label: 湖州天池月泉玉芝法聚禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-12
+    span:
+    - body
+    - 3377
+    - 3377
+  label: 壽堂松禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-13
+    span:
+    - body
+    - 3384
+    - 3384
+  label: 建寧府雙峯古音淨琴禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-14
+    span:
+    - body
+    - 3950
+    - 3950
+  label: 金臺覺禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-15
+    span:
+    - body
+    - 3957
+    - 3957
+  label: 杭州徑山萬松慧林禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-16
+    span:
+    - body
+    - 4049
+    - 4049
+  label: 大鑑下第三十一世
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-17
+    span:
+    - body
+    - 4057
+    - 4057
+  label: 天琦瑞禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-18
+    span:
+    - body
+    - 4064
+    - 4064
+  label: 隨州關子嶺龍泉無聞絕學正聰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-19
+    span:
+    - body
+    - 4475
+    - 4475
+  label: 沔州古岩禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-20
+    span:
+    - body
+    - 4689
+    - 4689
+  label: 伏牛濟菴大休實禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-21
+    span:
+    - body
+    - 5139
+    - 5139
+  label: 天池素禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-22
+    span:
+    - body
+    - 5146
+    - 5146
+  label: 襄陽府大覺圓禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-23
+    span:
+    - body
+    - 5441
+    - 5441
+  label: 野翁曉禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-24
+    span:
+    - body
+    - 5448
+    - 5448
+  label: 嘉興府無趣如空禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-25
+    span:
+    - body
+    - 6122
+    - 6122
+  label: 無盡海禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-26
+    span:
+    - body
+    - 6129
+    - 6129
+  label: 大休宗隆禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-27
+    span:
+    - body
+    - 6151
+    - 6151
+  label: 天寧濟禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-28
+    span:
+    - body
+    - 6158
+    - 6158
+  label: 嘉興府胥山雲谷法會禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-29
+    span:
+    - body
+    - 6312
+    - 6312
+  label: 嘉興府精嚴東谿方澤禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-30
+    span:
+    - body
+    - 6531
+    - 6531
+  label: 天池聚禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-31
+    span:
+    - body
+    - 6538
+    - 6538
+  label: 浮峰普恩上座
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-32
+    span:
+    - body
+    - 6797
+    - 6797
+  label: 雙峯琴禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-33
+    span:
+    - body
+    - 6804
+    - 6804
+  label: 建寧府斗峯天真道覺禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-34
+    span:
+    - body
+    - 6877
+    - 6877
+  label: 大鑑下第三十二世
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-35
+    span:
+    - body
+    - 6885
+    - 6885
+  label: 關嶺聰禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-36
+    span:
+    - body
+    - 6892
+    - 6892
+  label: 北京善果月心笑巖德寶禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-37
+    span:
+    - body
+    - 8925
+    - 8925
+  label: 大川洪禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-38
+    span:
+    - body
+    - 8932
+    - 8932
+  label: 五臺山龍樹菴寶應禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-39
+    span:
+    - body
+    - 8970
+    - 8970
+  label: 五臺山楚峯和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-40
+    span:
+    - body
+    - 9038
+    - 9038
+  label: 玉堂和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-41
+    span:
+    - body
+    - 9063
+    - 9063
+  label: 無趣空禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-42
+    span:
+    - body
+    - 9070
+    - 9070
+  label: 蘇州車溪無幻古湛性沖禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-43
+    span:
+    - body
+    - 10251
+    - 10251
+  label: 大鑑下第三十三世
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-44
+    span:
+    - body
+    - 10259
+    - 10259
+  label: 笑巖寶禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-45
+    span:
+    - body
+    - 10266
+    - 10266
+  label: 常州宜興龍池一心幻有正傳禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-46
+    span:
+    - body
+    - 11178
+    - 11178
+  label: 金陵靈谷曇芝禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-47
+    span:
+    - body
+    - 11269
+    - 11269
+  label: 五臺瑞峯三際廣通禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-48
+    span:
+    - body
+    - 11454
+    - 11454
+  label: 嘉興府天寧幻也佛慧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-49
+    span:
+    - body
+    - 11888
+    - 11888
+  label: 車溪冲禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-50
+    span:
+    - body
+    - 11895
+    - 11895
+  label: 嘉興府南明慧廣禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-51
+    span:
+    - body
+    - 12035
+    - 12035
+  label: 大鑑下第三十四世
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-52
+    span:
+    - body
+    - 12043
+    - 12043
+  label: 禹門傳禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-53
+    span:
+    - body
+    - 12050
+    - 12050
+  label: 明州天童密雲圓悟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-54
+    span:
+    - body
+    - 13964
+    - 13964
+  label: 常州磬山天隱圓修禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-55
+    span:
+    - body
+    - 15971
+    - 15971
+  label: 紹興府雲門雪嶠圓信禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-56
+    span:
+    - body
+    - 16919
+    - 16919
+  label: 湖州淨名抱朴大蓮禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-57
+    span:
+    - body
+    - 17329
+    - 17329
+  label: 興善廣禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-58
+    span:
+    - body
+    - 17336
+    - 17336
+  label: 嘉興府普明鴛湖玅用禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-59
+    span:
+    - body
+    - 17508
+    - 17508
+  label: 續燈存稾補遺
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-60
+    span:
+    - body
+    - 17514
+    - 17514
+  label: 黃龍忠禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-61
+    span:
+    - body
+    - 17528
+    - 17528
+  label: 袁州慈化普菴印肅禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-62
+    span:
+    - body
+    - 17831
+    - 17831
+  label: 月幻禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-63
+    span:
+    - body
+    - 17845
+    - 17845
+  label: 伏牛物外無念圓信禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-64
+    span:
+    - body
+    - 18183
+    - 18183
+  label: 潔空通禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-65
+    span:
+    - body
+    - 18198
+    - 18198
+  label: 黔中正法雪光禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-66
+    span:
+    - body
+    - 18357
+    - 18357
+  label: 雪峯瑞禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-67
+    span:
+    - body
+    - 18372
+    - 18372
+  label: 性空和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-68
+    span:
+    - body
+    - 18504
+    - 18504
+  label: 大闡通禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-69
+    span:
+    - body
+    - 18519
+    - 18519
+  label: 君峯清祥上座
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-70
+    span:
+    - body
+    - 18557
+    - 18557
+  label: 性空和尚法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0030_X_010-mulu-71
+    span:
+    - body
+    - 18571
+    - 18571
+  label: 荊州圓通夢菴嬾牧湛覺禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 15936
+  label: 續燈存稾卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 曹洞宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-2
+    span:
+    - body
+    - 24
+    - 24
+  label: 大鑑下第十六世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-3
+    span:
+    - body
+    - 31
+    - 31
+  label: 淨慈暉禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-4
+    span:
+    - body
+    - 38
+    - 38
+  label: 常州華藏明極慧祚禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-5
+    span:
+    - body
+    - 88
+    - 88
+  label: 雪竇宗禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-6
+    span:
+    - body
+    - 95
+    - 95
+  label: 泰州廣福微菴道勤禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-7
+    span:
+    - body
+    - 221
+    - 221
+  label: 善權智禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-8
+    span:
+    - body
+    - 228
+    - 228
+  label: 越州超化藻禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-9
+    span:
+    - body
+    - 292
+    - 292
+  label: 天童珏禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-10
+    span:
+    - body
+    - 299
+    - 299
+  label: 明州雪竇足菴智鑑禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-11
+    span:
+    - body
+    - 396
+    - 396
+  label: 大鑑下第十七世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-12
+    span:
+    - body
+    - 403
+    - 403
+  label: 華藏祚禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-13
+    span:
+    - body
+    - 410
+    - 410
+  label: 東谷光禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-14
+    span:
+    - body
+    - 464
+    - 464
+  label: 雪竇鑑禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-15
+    span:
+    - body
+    - 471
+    - 471
+  label: 明州天童長翁如淨禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-16
+    span:
+    - body
+    - 1340
+    - 1340
+  label: 大鑑下第十八世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-17
+    span:
+    - body
+    - 1347
+    - 1347
+  label: 天童淨禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-18
+    span:
+    - body
+    - 1354
+    - 1354
+  label: 雪菴從瑾禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-19
+    span:
+    - body
+    - 1414
+    - 1414
+  label: 襄州鹿門覺禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-20
+    span:
+    - body
+    - 1656
+    - 1656
+  label: 大鑑下第十九世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-21
+    span:
+    - body
+    - 1663
+    - 1663
+  label: 直翁舉禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-22
+    span:
+    - body
+    - 1670
+    - 1670
+  label: 明州天童雲外岫禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-23
+    span:
+    - body
+    - 1976
+    - 1976
+  label: 鹿門覺禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-24
+    span:
+    - body
+    - 1983
+    - 1983
+  label: 青州普照一辨禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-25
+    span:
+    - body
+    - 2946
+    - 2946
+  label: 大鑑下第二十世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-26
+    span:
+    - body
+    - 2953
+    - 2953
+  label: 天童岫禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-27
+    span:
+    - body
+    - 2960
+    - 2960
+  label: 明州雪竇無印大證禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-28
+    span:
+    - body
+    - 3329
+    - 3329
+  label: 普照辨禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-29
+    span:
+    - body
+    - 3336
+    - 3336
+  label: 磁州大明寶禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-30
+    span:
+    - body
+    - 3469
+    - 3469
+  label: 慈雲覺禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-31
+    span:
+    - body
+    - 3709
+    - 3709
+  label: 大鑑下第二十一世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-32
+    span:
+    - body
+    - 3717
+    - 3717
+  label: 大明寶禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-33
+    span:
+    - body
+    - 3724
+    - 3724
+  label: 太原府王山體禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-34
+    span:
+    - body
+    - 4047
+    - 4047
+  label: 仁山恒禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-35
+    span:
+    - body
+    - 4121
+    - 4121
+  label: 大鑑下第二十二世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-36
+    span:
+    - body
+    - 4129
+    - 4129
+  label: 王山體禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-37
+    span:
+    - body
+    - 4136
+    - 4136
+  label: 磁州大明雪巖滿禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-38
+    span:
+    - body
+    - 4570
+    - 4570
+  label: 勝默光禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-39
+    span:
+    - body
+    - 4663
+    - 4663
+  label: 大鑑下第二十三世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-40
+    span:
+    - body
+    - 4671
+    - 4671
+  label: 雪巖滿禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-41
+    span:
+    - body
+    - 4678
+    - 4678
+  label: 燕京報恩萬松行秀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-42
+    span:
+    - body
+    - 5589
+    - 5589
+  label: 大鑑下第二十四世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-43
+    span:
+    - body
+    - 5597
+    - 5597
+  label: 報恩秀禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-44
+    span:
+    - body
+    - 5604
+    - 5604
+  label: 西京少室雪庭福󱚉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-45
+    span:
+    - body
+    - 5938
+    - 5938
+  label: 大鑑下第二十五世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-46
+    span:
+    - body
+    - 5946
+    - 5946
+  label: 少室󱚉禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-47
+    span:
+    - body
+    - 5952
+    - 5952
+  label: 西京少室靈隱文泰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-48
+    span:
+    - body
+    - 6035
+    - 6035
+  label: 太原府報恩中林智泰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-49
+    span:
+    - body
+    - 6169
+    - 6169
+  label: 泰安州靈巖足菴淨肅禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-50
+    span:
+    - body
+    - 6373
+    - 6373
+  label: 大鑑下第二十六世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-51
+    span:
+    - body
+    - 6381
+    - 6381
+  label: 少室泰禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-52
+    span:
+    - body
+    - 6388
+    - 6388
+  label: 西京寶應還源福遇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-53
+    span:
+    - body
+    - 6507
+    - 6507
+  label: 濟南府靈巖秋江潔禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-54
+    span:
+    - body
+    - 6614
+    - 6614
+  label: 靈巖肅禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-55
+    span:
+    - body
+    - 6621
+    - 6621
+  label: 西京寶應月岩永達禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-56
+    span:
+    - body
+    - 6701
+    - 6701
+  label: 封龍古岩普就禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-57
+    span:
+    - body
+    - 6783
+    - 6783
+  label: 大鑑下第二十七世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-58
+    span:
+    - body
+    - 6791
+    - 6791
+  label: 寶應遇禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-59
+    span:
+    - body
+    - 6798
+    - 6798
+  label: 鄧州香嚴淳拙文才禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-60
+    span:
+    - body
+    - 7005
+    - 7005
+  label: 靈巖潔禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-61
+    span:
+    - body
+    - 7012
+    - 7012
+  label: 金陵天界雪軒道成禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-62
+    span:
+    - body
+    - 7990
+    - 7990
+  label: 封龍就禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-63
+    span:
+    - body
+    - 7997
+    - 7997
+  label: 西京天慶息菴義讓禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-64
+    span:
+    - body
+    - 8114
+    - 8114
+  label: 大鑑下第二十八世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-65
+    span:
+    - body
+    - 8122
+    - 8122
+  label: 少室才禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-66
+    span:
+    - body
+    - 8129
+    - 8129
+  label: 南陽府萬安松庭子嚴禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-67
+    span:
+    - body
+    - 8360
+    - 8360
+  label: 天慶讓禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-68
+    span:
+    - body
+    - 8367
+    - 8367
+  label: 熊耳崧溪子定禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-69
+    span:
+    - body
+    - 8462
+    - 8462
+  label: 大鑑下第二十九世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-70
+    span:
+    - body
+    - 8470
+    - 8470
+  label: 萬安嚴禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-71
+    span:
+    - body
+    - 8477
+    - 8477
+  label: 嵩山少室凝然了改禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-72
+    span:
+    - body
+    - 8646
+    - 8646
+  label: 大鑑下第三十世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-73
+    span:
+    - body
+    - 8653
+    - 8653
+  label: 少室改禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-74
+    span:
+    - body
+    - 8660
+    - 8660
+  label: 嵩山少室俱空契斌禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-75
+    span:
+    - body
+    - 8744
+    - 8744
+  label: 大鑑下第三十一世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-76
+    span:
+    - body
+    - 8752
+    - 8752
+  label: 少室斌禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-77
+    span:
+    - body
+    - 8759
+    - 8759
+  label: 西京定國無方可從禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-78
+    span:
+    - body
+    - 8871
+    - 8871
+  label: 大鑑下第三十二世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-79
+    span:
+    - body
+    - 8879
+    - 8879
+  label: 定國從禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-80
+    span:
+    - body
+    - 8886
+    - 8886
+  label: 嵩山少室虗白月舟文載禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-81
+    span:
+    - body
+    - 9100
+    - 9100
+  label: 大鑑下第三十三世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-82
+    span:
+    - body
+    - 9108
+    - 9108
+  label: 少室載禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-83
+    span:
+    - body
+    - 9115
+    - 9115
+  label: 北京宗鏡小山大章宗書禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-84
+    span:
+    - body
+    - 9368
+    - 9368
+  label: 大鑑下第三十四世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-85
+    span:
+    - body
+    - 9376
+    - 9376
+  label: 宗鏡書禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-86
+    span:
+    - body
+    - 9383
+    - 9383
+  label: 西京少室大千幻休常潤禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-87
+    span:
+    - body
+    - 9838
+    - 9838
+  label: 建昌府廩山蘊空常忠禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-88
+    span:
+    - body
+    - 9963
+    - 9963
+  label: 大鑑下第三十五世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-89
+    span:
+    - body
+    - 9971
+    - 9971
+  label: 小室潤禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-90
+    span:
+    - body
+    - 9978
+    - 9978
+  label: 北京大覺清凉慈舟方念禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-91
+    span:
+    - body
+    - 10486
+    - 10486
+  label: 嵩山少室無言正道禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-92
+    span:
+    - body
+    - 10847
+    - 10847
+  label: 廩山忠禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-93
+    span:
+    - body
+    - 10854
+    - 10854
+  label: 建昌府壽昌無明慧經禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-94
+    span:
+    - body
+    - 12490
+    - 12490
+  label: 大鑑下第三十六世
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-95
+    span:
+    - body
+    - 12498
+    - 12498
+  label: 大覺念禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-96
+    span:
+    - body
+    - 12505
+    - 12505
+  label: 紹興府雲門顯聖湛然圓澄禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-97
+    span:
+    - body
+    - 14157
+    - 14157
+  label: 少室道禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-98
+    span:
+    - body
+    - 14164
+    - 14164
+  label: 嵩山少室心悅慧喜禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-99
+    span:
+    - body
+    - 14254
+    - 14254
+  label: 壽昌經禪師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-100
+    span:
+    - body
+    - 14261
+    - 14261
+  label: 廣信府博山無異元來禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-101
+    span:
+    - body
+    - 15333
+    - 15333
+  label: 東苑湛靈元鏡禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-102
+    span:
+    - body
+    - 15514
+    - 15514
+  label: 建昌府壽昌閴然元謐禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0030_X_011-mulu-103
+    span:
+    - body
+    - 15676
+    - 15676
+  label: 福州鼓山永覺元賢禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 9469
+  label: 續燈存稾卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 未詳法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-2
+    span:
+    - body
+    - 25
+    - 25
+  label: 青州佛覺禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-3
+    span:
+    - body
+    - 69
+    - 69
+  label: 圓通善國師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-4
+    span:
+    - body
+    - 439
+    - 439
+  label: 燕京慶壽玄悟玉禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-5
+    span:
+    - body
+    - 585
+    - 585
+  label: 黃山趙文孺居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-6
+    span:
+    - body
+    - 631
+    - 631
+  label: 高郵州定禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-7
+    span:
+    - body
+    - 688
+    - 688
+  label: 杭州徑山雲菴慶禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-8
+    span:
+    - body
+    - 753
+    - 753
+  label: 竹林巨川海禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-9
+    span:
+    - body
+    - 792
+    - 792
+  label: 燕京大慶壽寺虗明教亨禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-10
+    span:
+    - body
+    - 1031
+    - 1031
+  label: 鎮州嘉山來禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-11
+    span:
+    - body
+    - 1076
+    - 1076
+  label: 玉溪通玄菴圓通禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-12
+    span:
+    - body
+    - 1248
+    - 1248
+  label: 五臺銕勒院子範慧洪大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-13
+    span:
+    - body
+    - 1333
+    - 1333
+  label: 建寧府蔣山慧空元模禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-14
+    span:
+    - body
+    - 1585
+    - 1585
+  label: 鄭州普照寺佛先道悟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-15
+    span:
+    - body
+    - 1750
+    - 1750
+  label: 杭州靈隱普覺淳朋禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-16
+    span:
+    - body
+    - 1839
+    - 1839
+  label: 明州雪竇常藏主
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-17
+    span:
+    - body
+    - 2009
+    - 2009
+  label: 台州黃岩濠頭丁安人
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-18
+    span:
+    - body
+    - 2241
+    - 2241
+  label: 明州育王勉侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-19
+    span:
+    - body
+    - 2335
+    - 2335
+  label: 鑷工張生
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-20
+    span:
+    - body
+    - 2410
+    - 2410
+  label: 永福靈江浩首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-21
+    span:
+    - body
+    - 2480
+    - 2480
+  label: 老素首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-22
+    span:
+    - body
+    - 2645
+    - 2645
+  label: 鴈山羅漢寺證首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-23
+    span:
+    - body
+    - 2769
+    - 2769
+  label: 淨慈元菴會藏主
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-24
+    span:
+    - body
+    - 2829
+    - 2829
+  label: 杭州天目一山魁菴主
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-25
+    span:
+    - body
+    - 3066
+    - 3066
+  label: 溫州壽昌絕照輝禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-26
+    span:
+    - body
+    - 3171
+    - 3171
+  label: 溫州靈雲省菴思禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-27
+    span:
+    - body
+    - 3407
+    - 3407
+  label: 文獻黃溍居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-28
+    span:
+    - body
+    - 3614
+    - 3614
+  label: 明州育王虗菴實首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-29
+    span:
+    - body
+    - 3658
+    - 3658
+  label: 明州天童幻菴住首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-30
+    span:
+    - body
+    - 3702
+    - 3702
+  label: 明州天童默中唯西堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-31
+    span:
+    - body
+    - 3743
+    - 3743
+  label: 佛隴宜興□□可上座
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-32
+    span:
+    - body
+    - 3782
+    - 3782
+  label: 瑞州九峯壽首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-33
+    span:
+    - body
+    - 3823
+    - 3823
+  label: 天台山上雲峯無盡祖燈禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-34
+    span:
+    - body
+    - 4016
+    - 4016
+  label: 杭州僊林寺雪庭禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-35
+    span:
+    - body
+    - 4215
+    - 4215
+  label: 金陵永寧古淵清禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-36
+    span:
+    - body
+    - 4260
+    - 4260
+  label: 伏牛無礙明理禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-37
+    span:
+    - body
+    - 4404
+    - 4404
+  label: 嘉興聖壽宜翁可觀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-38
+    span:
+    - body
+    - 4503
+    - 4503
+  label: 吉州武功山白雲明星禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-39
+    span:
+    - body
+    - 4661
+    - 4661
+  label: 佛妙禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-40
+    span:
+    - body
+    - 4730
+    - 4730
+  label: 嘉興府資聖克新仲銘禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-41
+    span:
+    - body
+    - 4906
+    - 4906
+  label: 待詔沈士榮居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-42
+    span:
+    - body
+    - 6731
+    - 6731
+  label: 杭州雲棲蓮池袾宏大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-43
+    span:
+    - body
+    - 7444
+    - 7444
+  label: 紫柏達觀真可大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-44
+    span:
+    - body
+    - 7765
+    - 7765
+  label: 瑞州黃檗無念深有禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-45
+    span:
+    - body
+    - 8508
+    - 8508
+  label: 夔州白馬寺儀峯方彖禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-46
+    span:
+    - body
+    - 8757
+    - 8757
+  label: 廣信府鵞湖養菴心禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0030_X_012-mulu-47
+    span:
+    - body
+    - 9061
+    - 9061
+  label: 韶州曹溪憨山德清大師
+  type: mulu
+  level: 1
+hash: sha256:20782d66c88a365e115a7e21a17ff32d160e3ddfb744ff26930350a0cdd81a7f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
